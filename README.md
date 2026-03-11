@@ -29,9 +29,6 @@ The dashboard helps identify:
 - Which factory has the highest downtime
 - Which machine types contribute most to failures
 
-## Dashboard
-![Dashboard](dashboard.png)
-
 ## Learning Outcome
 This project helped me learn:
 - Data visualization using Tableau
